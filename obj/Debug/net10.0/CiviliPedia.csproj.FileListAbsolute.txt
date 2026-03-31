@@ -1,0 +1,14 @@
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.AssemblyInfoInputs.cache
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.AssemblyInfo.cs
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.csproj.CoreCompileInputs.cache
+C:\Users\davic\Desktop\CiviliPedia\bin\Debug\net10.0\CiviliPedia.exe
+C:\Users\davic\Desktop\CiviliPedia\bin\Debug\net10.0\CiviliPedia.deps.json
+C:\Users\davic\Desktop\CiviliPedia\bin\Debug\net10.0\CiviliPedia.runtimeconfig.json
+C:\Users\davic\Desktop\CiviliPedia\bin\Debug\net10.0\CiviliPedia.dll
+C:\Users\davic\Desktop\CiviliPedia\bin\Debug\net10.0\CiviliPedia.pdb
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.dll
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\refint\CiviliPedia.dll
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.pdb
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\CiviliPedia.genruntimeconfig.cache
+C:\Users\davic\Desktop\CiviliPedia\obj\Debug\net10.0\ref\CiviliPedia.dll
