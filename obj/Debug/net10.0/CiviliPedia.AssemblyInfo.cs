@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CiviliPedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+658e650f335497fd18e4dc07fcb9518f11f7fbd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CiviliPedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CiviliPedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
