@@ -71,7 +71,7 @@ usei a linha de código:
     Console.WriteLine($"{i + 1}. {lista[i].Nome}");
 
 Aqui, o i + 1 está presente pois as listas no C# (assim como os arrays)
-sempre se iniciam no número , e, no menu, temos que a lista se inicia no
+sempre se iniciam no número 0, e, no menu, temos que a lista se inicia no
 1.
 
 Ou seja: tenho que adicionar um ao meu índice para mostrar
