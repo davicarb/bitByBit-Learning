@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <ApplicationIcon>icone.ico</ApplicationIcon>
+    <ApplicationIcon>appicon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>

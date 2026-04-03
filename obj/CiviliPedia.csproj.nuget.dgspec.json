@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davic\\Desktop\\CiviliPedia\\CiviliPedia.csproj": {}
+    "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\CiviliPedia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davic\\Desktop\\CiviliPedia\\CiviliPedia.csproj": {
+    "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\CiviliPedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davic\\Desktop\\CiviliPedia\\CiviliPedia.csproj",
+        "projectUniqueName": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\CiviliPedia.csproj",
         "projectName": "CiviliPedia",
-        "projectPath": "C:\\Users\\davic\\Desktop\\CiviliPedia\\CiviliPedia.csproj",
+        "projectPath": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\CiviliPedia.csproj",
         "packagesPath": "C:\\Users\\davic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davic\\Desktop\\CiviliPedia\\obj\\",
+        "outputPath": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davic\\AppData\\Roaming\\NuGet\\NuGet.Config",
