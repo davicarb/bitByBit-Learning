@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\bitbybit.csproj",
+      "projectUniqueName": "C:\\Users\\davic\\Desktop\\bitByBit Learning\\bitbybit.csproj",
       "projectName": "bitbybit",
-      "projectPath": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\bitbybit.csproj",
+      "projectPath": "C:\\Users\\davic\\Desktop\\bitByBit Learning\\bitbybit.csproj",
       "packagesPath": "C:\\Users\\davic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davic\\Desktop\\Civilipedia to bitByBit\\obj\\",
+      "outputPath": "C:\\Users\\davic\\Desktop\\bitByBit Learning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davic\\AppData\\Roaming\\NuGet\\NuGet.Config",
